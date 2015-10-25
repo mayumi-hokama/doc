@@ -1,6 +1,5 @@
-# 私の私による私のためのiOS Tips
-## Autolayout
-### The view hierarchy is not prepared for the constraint エラー
+# Autolayout
+#### The view hierarchy is not prepared for the constraint エラー
 ```
 The view hierarchy is not prepared for the constraint
 ```  
